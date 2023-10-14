@@ -1,0 +1,30 @@
+{
+    "B": "rules_xcodeproj",
+    "E": [
+        "//tools/generator/test:tests.__internal__.__test_bundle applebin_macos-darwin_x86_64-dbg-STABLE-3",
+        {},
+        "//tools/generator/test:tests.__internal__.__test_bundle applebin_macos-darwin_x86_64-opt-STABLE-4",
+        {}
+    ],
+    "R": "//test/fixtures/generator:xcodeproj_bwb",
+    "T": "fixture-target-ids-file",
+    "e": [
+        {
+            "_": "build_bazel_rules_apple/apple/testing/DefaultTestBundle.plist",
+            "t": "e"
+        },
+        "test/fixtures/generator/BUILD",
+        "tools/generator/BUILD",
+        "tools/generator/test/BUILD",
+        "tools/swiftc_stub/BUILD"
+    ],
+    "i": "fixture-index-import-path",
+    "m": "13.0",
+    "n": "bwb",
+    "s": "none",
+    "x": [
+        "Debug",
+        "Profile",
+        "Release"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "B": "rules_xcodeproj",
+    "R": "//test/fixtures:xcodeproj_bwx",
+    "T": "fixture-target-ids-file",
+    "e": [
+        "AddressSanitizerApp/BUILD",
+        "AddressSanitizerApp/Info.plist",
+        "ThreadSanitizerApp/BUILD",
+        "ThreadSanitizerApp/Info.plist",
+        "UndefinedBehaviorSanitizerApp/BUILD",
+        "UndefinedBehaviorSanitizerApp/Info.plist",
+        "test/fixtures/BUILD"
+    ],
+    "i": "fixture-index-import-path",
+    "m": "13.0",
+    "n": "bwx",
+    "s": "none"
+}
